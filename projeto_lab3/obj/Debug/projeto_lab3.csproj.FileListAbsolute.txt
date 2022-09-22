@@ -1,0 +1,5 @@
+C:\Users\joca3\Desktop\projeto_lab3\projeto_lab3\obj\Debug\projeto_lab3.csprojAssemblyReference.cache
+C:\Users\joca3\Desktop\projeto_lab3\projeto_lab3\obj\Debug\projeto_lab3.Form1.resources
+C:\Users\joca3\Desktop\projeto_lab3\projeto_lab3\obj\Debug\projeto_lab3.Properties.Resources.resources
+C:\Users\joca3\Desktop\projeto_lab3\projeto_lab3\obj\Debug\projeto_lab3.csproj.GenerateResource.cache
+C:\Users\joca3\Desktop\projeto_lab3\projeto_lab3\obj\Debug\projeto_lab3.csproj.CoreCompileInputs.cache
